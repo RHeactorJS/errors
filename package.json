@@ -1,5 +1,5 @@
 {
-  "name": "@resourcefulhumans/rheactor-errors",
+  "name": "@rheactorjs/errors",
   "description": "A collection of errors",
   "version": "0.0.0-development",
   "main": "dist/index.js",
@@ -13,16 +13,19 @@
     "precommit": "npm run lint && npm test",
     "commitmsg": "validate-commit-msg"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ResourcefulHumans/rheactor-errors.git"
+    "url": "https://github.com/RHeactorJS/errors.git"
   },
   "author": "Resourceful Humans GmbH <info@resourceful-humans.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ResourcefulHumans/rheactor-errors/issues"
+    "url": "https://github.com/RHeactorJS/errors/issues"
   },
-  "homepage": "https://github.com/ResourcefulHumans/rheactor-errors#readme",
+  "homepage": "https://github.com/RHeactorJS/errors#readme",
   "dependencies": {
     "tcomb": "^3.2.13"
   },

@@ -1,10 +1,8 @@
 # errors
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/RHeactorJS/errors.svg)](https://greenkeeper.io/)
-
 [![npm version](https://img.shields.io/npm/v/@rheactorjs/errors.svg)](https://www.npmjs.com/package/@rheactorjs/errors)
 [![Build Status](https://travis-ci.org/RHeactorJS/errors.svg?branch=master)](https://travis-ci.org/RHeactorJS/errors)
-[![monitored by greenkeeper.io](https://img.shields.io/badge/greenkeeper.io-monitored-brightgreen.svg)](http://greenkeeper.io/) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RHeactorJS/errors.svg)](https://greenkeeper.io/) 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![semantic-release](https://img.shields.io/badge/semver-semantic%20release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 [![Test Coverage](https://codeclimate.com/github/RHeactorJS/errors/badges/coverage.svg)](https://codeclimate.com/github/RHeactorJS/errors/coverage)

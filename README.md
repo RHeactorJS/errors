@@ -1,5 +1,7 @@
 # errors
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RHeactorJS/errors.svg)](https://greenkeeper.io/)
+
 [![npm version](https://img.shields.io/npm/v/@rheactorjs/errors.svg)](https://www.npmjs.com/package/@rheactorjs/errors)
 [![Build Status](https://travis-ci.org/RHeactorJS/errors.svg?branch=master)](https://travis-ci.org/RHeactorJS/errors)
 [![monitored by greenkeeper.io](https://img.shields.io/badge/greenkeeper.io-monitored-brightgreen.svg)](http://greenkeeper.io/) 
